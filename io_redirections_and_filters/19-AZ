@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -t 'a-c' 'z-e'
+tr -t 'A-c' 'Z-e'
